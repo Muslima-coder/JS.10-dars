@@ -1,0 +1,17 @@
+.dumaloq-content{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: bisque;
+    margin: 0 auto;
+    display: none;
+}
+
+.kvadrat-content{
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: bisque;
+    margin: 0 auto;
+    display: none;
+}
